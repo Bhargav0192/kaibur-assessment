@@ -6,10 +6,10 @@ Get
 ![image](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/e6de6e69-7207-4d92-99cb-2e3bf1d49749)
 
 
-post
+Post
 ![image](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/4592cf76-cf80-4d6c-83f8-ed8512d54c56)
 
-delete
+Delete
 ![image](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/ed12e15e-befb-4b89-8c24-af8196bfbfa2)
 ![image](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/9cd976b4-6742-4c7b-ab65-40727413c071)
 
@@ -22,6 +22,11 @@ Task - 2
 ![k2](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/326ef28c-a16b-48a6-b416-326cc87e9f9b)
 
 ![k3](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/4f84b22e-eb41-4a9e-8270-3b41ec64c177)
+
+Task - 4
+
+![image](https://github.com/Bhargav0192/kaibur-assessment/assets/72182021/7bb3ad15-1c94-43bd-8e90-11bddefef028)
+
 
 
 
